@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Content 
+	Author="Stray Dogs Territory" 
+	Dependencies="" 
+	Description_english="Mostly a dev utility. Fixes the discarding threshold for shadows of textures with an alpha componant. More than likely not visable in game, but like stated prior, mostly for mod developers." 
+	LauncherPic="LauncherPic.png" 
+	Title="Shadow Map for alpha materials Fix" 
+	Type="AddOn" 
+	UID="" 
+	Version="1.0"
+	HotLoad="false"
+	LanguageFolder = "config/lang/"
+/>
